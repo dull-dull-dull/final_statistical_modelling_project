@@ -1,0 +1,206 @@
+,name,categories,distance,latitude,longitude,address,rating
+0,Radical Road Brewing,"[{'alias': 'breweries', 'title': 'Breweries'}, {'alias': 'bars', 'title': 'Bars'}]",9.369659761303812,43.6626325991479,-79.3324785413321,1177 Queen Street E,4.5
+1,Cloak & Dagger Irish Pub,"[{'alias': 'pubs', 'title': 'Pubs'}]",13.627565787000568,43.65714,-79.40571,394 College Street,3.5
+2,Grey Gardens,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'newcanadian', 'title': 'Canadian (New)'}]",16.64436170083894,43.6537999,-79.40143,199 Augusta Avenue,4.5
+3,LCBO - Chinatown,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",21.358569786766576,43.65485,-79.39828,335 Spadina Ave,2.5
+4,The Black Bull,"[{'alias': 'bars', 'title': 'Bars'}]",24.3435161885127,43.64975,-79.3932899,298 Queen Street W,2.5
+5,Pharmacy Bar,"[{'alias': 'divebars', 'title': 'Dive Bars'}]",27.32086725194836,43.638166,-79.4316941,1318 King Street W,4.5
+6,SOCO Kitchen + Bar,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'newcanadian', 'title': 'Canadian (New)'}]",27.759402237705874,43.6426531322953,-79.3838465349876,75 Lower Simcoe Street,3.5
+7,Avling Kitchen & Brewery,"[{'alias': 'breweries', 'title': 'Breweries'}]",28.05174873529354,43.66174,-79.33823,1042 Queen Street E,4.5
+8,The Rec Room,"[{'alias': 'arcades', 'title': 'Arcades'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'newcanadian', 'title': 'Canadian (New)'}]",30.378331750715144,43.64125720750635,-79.38677926085168,255 Bremner Boulevard,3.0
+9,LCBO,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",33.17828995625759,43.6563923616084,-79.3814885616302,595 Bay Street,3.0
+10,The 3 Brewers,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'breweries', 'title': 'Breweries'}]",33.455414705302246,43.65551,-79.38027,275 Yonge St,3.0
+11,Hair of the Dog,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'comfortfood', 'title': 'Comfort Food'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}]",36.11286429240823,43.662946823805,-79.379592870241,425 Church Street,4.0
+12,Bar Hop,"[{'alias': 'bars', 'title': 'Bars'}]",36.58347286706747,43.6455994,-79.3935471,391 King Street W,4.0
+13,Henderson Brewing,"[{'alias': 'breweries', 'title': 'Breweries'}]",37.49971255004079,43.65366802282883,-79.44475164655762,128A Sterling Road,4.0
+14,The Mugshot Tavern,"[{'alias': 'bars', 'title': 'Bars'}]",38.26853414943493,43.6546,-79.45957,1729 Bloor Street W,4.0
+15,Wasted Youth,"[{'alias': 'bars', 'title': 'Bars'}]",40.32191540592439,43.6625010050815,-79.4235806095242,834 Bloor St W,3.5
+16,LOCAL Public Eatery - Liberty Village,"[{'alias': 'sportsbars', 'title': 'Sports Bars'}, {'alias': 'breakfast_brunch', 'title': 'Breakfast & Brunch'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",40.79959512896683,43.6384689262493,-79.4192124903202,171 E Liberty Street,4.0
+17,Bar Hop,"[{'alias': 'pubs', 'title': 'Pubs'}]",42.71617574878199,43.6491064981382,-79.3934956920754,137 Peter Street,3.5
+18,Blood Brothers Brewing,"[{'alias': 'breweries', 'title': 'Breweries'}]",44.47738986048234,43.66984,-79.4361799,165 Geary Avenue,4.0
+19,Go Tours Canada,"[{'alias': 'walkingtours', 'title': 'Walking Tours'}]",45.40104578918661,43.649995,-79.3617002,11 Gristmill Lane,4.5
+20,Handlebar,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'danceclubs', 'title': 'Dance Clubs'}, {'alias': 'musicvenues', 'title': 'Music Venues'}]",47.11592446975421,43.6528604406984,-79.4012188911438,159 Augusta Avenue,4.5
+21,Pour Boy,"[{'alias': 'pubs', 'title': 'Pubs'}]",47.30375610356108,43.66434,-79.41621,666 Manning Avenue,3.5
+22,3030,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'musicvenues', 'title': 'Music Venues'}, {'alias': 'newcanadian', 'title': 'Canadian (New)'}]",47.37335598409232,43.6658199,-79.47046,3030 Dundas Street W,3.0
+23,RendezViews,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",48.269542839639456,43.64911,-79.3899,229 Richmond St W,3.5
+24,JOEY Eaton Centre,"[{'alias': 'newcanadian', 'title': 'Canadian (New)'}, {'alias': 'lounges', 'title': 'Lounges'}, {'alias': 'steak', 'title': 'Steakhouses'}]",48.995839835709525,43.6558708964233,-79.382009190213,1 Dundas St W,3.5
+25,The Commoner,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}]",51.83586888650815,43.65191,-79.44797,2067 Dundas Street W,4.0
+26,The Aviary,"[{'alias': 'brewpubs', 'title': 'Brewpubs'}]",52.3917097914884,43.65368,-79.35468,484 Front St E,3.0
+27,Something in the Water,"[{'alias': 'brewpubs', 'title': 'Brewpubs'}]",52.65780954466536,43.6384946,-79.417138843134,151 E Liberty Street,5.0
+28,Eastbound Brewing,"[{'alias': 'brewpubs', 'title': 'Brewpubs'}]",58.02381870323588,43.65901,-79.3502,700 Queen Street E,4.0
+29,Page One,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",58.46424354249099,43.657853,-79.376254,106 Mutual Street,4.0
+30,Spearhead Brewing Company,"[{'alias': 'breweries', 'title': 'Breweries'}]",58.5854811024476,43.6487,-79.38545,,4.0
+31,Tallboys Craft Beer House,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'newcanadian', 'title': 'Canadian (New)'}, {'alias': 'burgers', 'title': 'Burgers'}]",59.36036642204248,43.66256,-79.42382,838 Bloor Street W,4.0
+32,Hunters Landing,"[{'alias': 'comfortfood', 'title': 'Comfort Food'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'newcanadian', 'title': 'Canadian (New)'}]",60.94484835499256,43.64002,-79.39673,82 Fort York Blvd,3.5
+33,The Local,"[{'alias': 'bars', 'title': 'Bars'}]",61.29339172992134,43.6510309,-79.4510022,396 Roncesvalles Avenue,3.5
+34,Morgan's On the Danforth,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}, {'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'newcanadian', 'title': 'Canadian (New)'}]",62.45048396383266,43.68194,-79.3302284,1282 Danforth Avenue,4.0
+35,Godspeed Brewery,"[{'alias': 'breweries', 'title': 'Breweries'}]",62.7217238125636,43.6726566500705,-79.3190997093916,242 Coxwell Avenue,4.0
+36,Sin & Redemption,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",62.86845839281119,43.654708,-79.3917,136 McCaul Street,3.5
+37,Great Lakes Brewpub,"[{'alias': 'brewpubs', 'title': 'Brewpubs'}]",63.45161335916112,43.64478952472474,-79.36931916086434,11 Lower Jarvis Street,3.5
+38,Bar Volo,"[{'alias': 'beerbar', 'title': 'Beer Bar'}]",65.06393253117109,43.66556,-79.38555,17 St Nicholas Street,4.5
+39,Old Flame Brewing,"[{'alias': 'breweries', 'title': 'Breweries'}]",65.21025546236075,43.65058541481344,-79.35752307063515,43 Tankhouse Lane,5.0
+40,Northern Maverick Brewing,"[{'alias': 'brewpubs', 'title': 'Brewpubs'}]",66.5951987830004,43.6450941,-79.4029665,115 Bathurst Street,3.5
+41,The Embassy Bar,"[{'alias': 'bars', 'title': 'Bars'}]",69.10081460434454,43.65433,-79.40162,223 Augusta Ave,4.0
+42,Imperial Pub,"[{'alias': 'pubs', 'title': 'Pubs'}]",70.94642566690061,43.6563327,-79.3788469,54 Dundas Street E,3.5
+43,The Quail: A Firkin Pub,"[{'alias': 'pubs', 'title': 'Pubs'}]",71.86343684423244,43.67851,-79.38973,1055 Yonge Street,3.0
+44,Axis Gallery & Grill,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",73.00530522460382,43.66567,-79.47092,3048 Dundas Street W,3.0
+45,Ferro Bar & Cafe,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'italian', 'title': 'Italian'}, {'alias': 'coffee', 'title': 'Coffee & Tea'}]",73.34794661551692,43.68093394344486,-79.42856646629528,769 Saint Clair Avenue W,3.5
+46,Red Tape Brewery,"[{'alias': 'breweries', 'title': 'Breweries'}]",74.7221317529761,43.6838,-79.2998,159 Main Street,5.0
+47,The Beer Store Express,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",74.833627629106,43.6566811,-79.3806534,10 Dundas Street E,3.0
+48,Urban House,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'newcanadian', 'title': 'Canadian (New)'}]",76.06506344731378,43.6590232165887,-79.3496101722121,718 Queen Street E,4.5
+49,Bryden's,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",76.25868171281199,43.64903,-79.48453,2455 Bloor Street W,4.0
+50,The Caledonian,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'scottish', 'title': 'Scottish'}, {'alias': 'whiskeybars', 'title': 'Whiskey Bars'}]",77.07930549632248,43.65439,-79.42355,856 College Street,4.5
+51,Beerbistro,"[{'alias': 'bistros', 'title': 'Bistros'}, {'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'comfortfood', 'title': 'Comfort Food'}]",78.2372905420213,43.64946713499637,-79.3771696548727,18 King Street E,4.0
+52,Buddies In Bad Times Theatre,"[{'alias': 'theater', 'title': 'Performing Arts'}, {'alias': 'gaybars', 'title': 'Gay Bars'}]",78.62805854986264,43.66331,-79.38302,12 Alexander St,4.0
+53,King Rustic,"[{'alias': 'comfortfood', 'title': 'Comfort Food'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",80.39033493571979,43.6418019534315,-79.4121160358191,905 King Street W,4.0
+54,The Only Cafe,"[{'alias': 'pubs', 'title': 'Pubs'}]",81.25074382576102,43.6804685,-79.337862,972 Danforth Avenue,4.0
+55,Birroteca,"[{'alias': 'breweries', 'title': 'Breweries'}]",81.62588021525112,43.66963,-79.38864,55 Bloor Street W,3.5
+56,Northwood,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",81.8138114758015,43.66248,-79.42204,815 W Bloor Street,4.0
+57,The Queen And Beaver Public House,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'british', 'title': 'British'}]",82.12766739073525,43.65734,-79.38334,35 Elm Street,4.0
+58,The Dylan Bar,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'comfortfood', 'title': 'Comfort Food'}]",85.4764586301067,43.6820280073826,-79.3305167183754,1276 Danforth Avenue,3.5
+59,The Loose Moose,"[{'alias': 'sportsbars', 'title': 'Sports Bars'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}, {'alias': 'newcanadian', 'title': 'Canadian (New)'}]",85.54700493474655,43.64522746,-79.3838502,146 Front Street West,3.5
+60,The Keg Steakhouse + Bar - York Street,"[{'alias': 'steak', 'title': 'Steakhouses'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}]",85.67484599604677,43.650011481693866,-79.38395891300931,165 York Street,4.0
+61,Shakey's Sports Pub,"[{'alias': 'sportsbars', 'title': 'Sports Bars'}, {'alias': 'newcanadian', 'title': 'Canadian (New)'}, {'alias': 'pubs', 'title': 'Pubs'}]",86.26939778972637,43.6507268,-79.4774603,2255 Bloor Street W,4.0
+62,Collective Arts,"[{'alias': 'breweries', 'title': 'Breweries'}]",87.1257154903829,43.65191114937465,-79.40735034711724,777 Dundas Street W,4.5
+63,Burdock,"[{'alias': 'breweries', 'title': 'Breweries'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",87.96046215769998,43.6594874003951,-79.4378667938658,1184 Bloor Street W,3.5
+64,Pogue Mahone Pub & Kitchen,"[{'alias': 'pubs', 'title': 'Pubs'}]",88.7534681509301,43.660323,-79.385445,777 Bay Street,2.5
+65,Allen's,"[{'alias': 'irish', 'title': 'Irish'}, {'alias': 'pubs', 'title': 'Pubs'}]",89.42156327344118,43.676421425352,-79.357315938409,143 Danforth Avenue,3.0
+66,Sweaty Betty's,"[{'alias': 'divebars', 'title': 'Dive Bars'}]",89.4717288150928,43.64459,-79.41862,13 Ossington Avenue,4.0
+67,Duggan's Brewery,"[{'alias': 'breweries', 'title': 'Breweries'}]",90.21097574521885,43.641536,-79.432141,1346 Queen Street W,3.5
+68,Northern Belle,"[{'alias': 'coffee', 'title': 'Coffee & Tea'}, {'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",90.41643787159438,43.65081,-79.41258,913 Dundas Street W,4.0
+69,Brickworks Cider House,"[{'alias': 'cideries', 'title': 'Cideries'}, {'alias': 'pubs', 'title': 'Pubs'}]",90.44948812337915,43.65882656696621,-79.3496389,709 Queen Street E,4.0
+70,Steadfast Brewing,"[{'alias': 'breweries', 'title': 'Breweries'}]",91.03280445149387,43.65061746604905,-79.43966603699837,301 Lansdowne Avenue,5.0
+71,Cluny Bistro & Boulangerie,"[{'alias': 'french', 'title': 'French'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",92.25457031823866,43.6505879,-79.3578962,35 Tank House Lane,3.5
+72,Bandit Brewery,"[{'alias': 'breweries', 'title': 'Breweries'}]",92.64019254582458,43.6524851618937,-79.4496210291982,2125 Dundas Street W,3.5
+73,Real Sports,"[{'alias': 'sportsbars', 'title': 'Sports Bars'}, {'alias': 'newcanadian', 'title': 'Canadian (New)'}, {'alias': 'musicvenues', 'title': 'Music Venues'}]",94.05429283713065,43.64324,-79.379405,15 York Street,3.5
+74,King Taps,"[{'alias': 'newcanadian', 'title': 'Canadian (New)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",94.87869665066457,43.6486379269,-79.3817439,100 King Street W,4.0
+75,Trinity Common,"[{'alias': 'bars', 'title': 'Bars'}]",95.16715784609607,43.6567508787794,-79.4030518457294,303 Augusta Avenue,3.0
+76,Beertown - Toronto,"[{'alias': 'beerbar', 'title': 'Beer Bar'}]",96.40921405121917,43.6461848,-79.384264,125 Wellington Street W,4.0
+77,Tour Guys Toronto,"[{'alias': 'foodtours', 'title': 'Food Tours'}, {'alias': 'beertours', 'title': 'Beer Tours'}, {'alias': 'walkingtours', 'title': 'Walking Tours'}]",97.06471351142218,43.66022,-79.36493,,5.0
+78,The Churchmouse: A Firkin Pub,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'british', 'title': 'British'}]",99.53303049223804,43.6646112519968,-79.3801465109641,475 Church Street,3.5
+79,LCBO,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",100.85570875591348,43.6435698701997,-79.3939456405848,49 Spadina Avenue,4.0
+80,WVRST Union Station,"[{'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'german', 'title': 'German'}]",103.1898529676205,43.644936,-79.381269,65 Front Street West,4.0
+81,The House On Parliament,"[{'alias': 'british', 'title': 'British'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",104.923079718127,43.66359,-79.36794,454 Parliament Street,4.0
+82,The Bedford Academy,"[{'alias': 'pubs', 'title': 'Pubs'}]",105.7421183525225,43.66953,-79.39721,36 Prince Arthur Ave,3.5
+83,The Jason George,"[{'alias': 'pubs', 'title': 'Pubs'}]",105.96461691427588,43.64984,-79.3711,100 Front Street E,2.5
+84,Birreria Volo,"[{'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'italian', 'title': 'Italian'}]",106.33584635004512,43.65531,-79.41461,612 College Street,3.5
+85,Spirit of York Distillery,"[{'alias': 'distilleries', 'title': 'Distilleries'}]",108.07902326469036,43.6504,-79.35977,12 Trinity Street,4.5
+86,LCBO,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",109.0199605194624,43.6809635597041,-79.3905542135377,10 Scrivener Square,4.5
+87,St Louis Bar and Grill,"[{'alias': 'chicken_wings', 'title': 'Chicken Wings'}, {'alias': 'sportsbars', 'title': 'Sports Bars'}]",109.32605081144516,43.7015589,-79.3976304,2050 Yonge Street,3.0
+88,The Dock Ellis,"[{'alias': 'sportsbars', 'title': 'Sports Bars'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",109.5783769220928,43.6494701,-79.4253287,1280 Dundas Street W,4.0
+89,Duke of York,"[{'alias': 'pubs', 'title': 'Pubs'}]",111.01823348266782,43.66919,-79.39739,39 Prince Arthur Ave,3.5
+90,Stout Irish Pub,"[{'alias': 'irish_pubs', 'title': 'Irish Pub'}]",112.61163221586835,43.6639,-79.36894,221 Carlton Street,4.0
+91,Liberty Commons at Big Rock Brewery,"[{'alias': 'breweries', 'title': 'Breweries'}]",114.85914577712468,43.6383296,-79.4211346,42 Liberty Street,4.0
+92,The 3 Brewers,"[{'alias': 'breweries', 'title': 'Breweries'}, {'alias': 'pubs', 'title': 'Pubs'}]",115.53426005818504,43.64974403492887,-79.3832479,120 Adelaide Street W,3.0
+93,The Beer Store,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",115.56762774764464,43.6134423700125,-79.4897711122797,2458 Lakeshore Boulevard W,2.5
+94,The Rhino,"[{'alias': 'bars', 'title': 'Bars'}]",115.95363086268932,43.64157,-79.4305399,1249 Queen Street W,3.0
+95,The Pint Public House,"[{'alias': 'sportsbars', 'title': 'Sports Bars'}]",117.22157098323744,43.643906,-79.388419,227 Front Street W,3.0
+96,The Wren,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",122.22392168151444,43.6824096,-79.3280496,1382 Danforth Avenue,4.0
+97,Pinkerton Snack Bar,"[{'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",122.9816274190753,43.66901,-79.33727,1026 Gerrard Street E,4.0
+98,Firkin On Danforth,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'newcanadian', 'title': 'Canadian (New)'}]",123.57347534127943,43.685332,-79.313329,2057B Danforth Avenue E,3.0
+99,Old Toronto Beer Tour,"[{'alias': 'beertours', 'title': 'Beer Tours'}, {'alias': 'historicaltours', 'title': 'Historical Tours'}]",126.69346871235145,43.6415367,-79.3865738,255 Bremner Boulevard,5.0
+100,Stackt Belgian Moon Brewery,"[{'alias': 'breweries', 'title': 'Breweries'}]",129.56808946681284,43.6405555564419,-79.4033187255263,28 Bathurst Street,4.0
+101,Kensington Brewing Company,"[{'alias': 'breweries', 'title': 'Breweries'}]",130.75964789023692,43.65648,-79.4027046,299 Augusta Avenue,4.5
+102,Mill Street Retail Store,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",130.86407257723047,43.6504424511321,-79.3584427521102,55 Mill St,3.5
+103,Mill Street Brew Pub,"[{'alias': 'brewpubs', 'title': 'Brewpubs'}]",130.86407257723047,43.6504424511321,-79.3584427521102,21 Tank House Lane,3.5
+104,Mill Street Beer Hall,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'newcanadian', 'title': 'Canadian (New)'}]",130.86407257723047,43.6504424511321,-79.3584427521102,21 Tank House Lane,3.0
+105,Montauk Bar,"[{'alias': 'bars', 'title': 'Bars'}]",132.8840613487479,43.652115,-79.4068536,765 Dundas Street W,4.0
+106,Izumi Ontario Spring Water Sake Company,"[{'alias': 'breweries', 'title': 'Breweries'}, {'alias': 'beertours', 'title': 'Beer Tours'}]",135.73034938024583,43.64989,-79.36002,51 Gristmill Lane,4.5
+107,The John,"[{'alias': 'pubs', 'title': 'Pubs'}]",138.35781535415774,43.659657,-79.437245,1174 Bloor Street West,4.5
+108,Steam Whistle Brewing,"[{'alias': 'breweries', 'title': 'Breweries'}]",139.7036220429852,43.64106582318045,-79.38512716305907,255 Bremner Boulevard,4.5
+109,Bar Hop Session,"[{'alias': 'beerbar', 'title': 'Beer Bar'}]",140.62633085553935,43.67891,-79.344,681 Danforth Avenue,3.5
+110,Corks Beer & Wine Bars,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",141.47913200679986,43.64008,-79.42332,1100 King Street W,3.0
+111,Bier Markt,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'newcanadian', 'title': 'Canadian (New)'}, {'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}]",141.50203611211006,43.647095161326,-79.373915180044,58 The Esplanade,3.0
+112,Otto's Berlin Döner,"[{'alias': 'german', 'title': 'German'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",142.11265553076728,43.6563397,-79.4029066,256 Augusta Avenue,4.0
+113,The Craft Brasserie & Grille,"[{'alias': 'brasseries', 'title': 'Brasseries'}, {'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",143.16009868788086,43.6394076328957,-79.4208196351823,107 Atlantic Avenue,3.5
+114,CRAFT Beer Market,"[{'alias': 'beerbar', 'title': 'Beer Bar'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'newcanadian', 'title': 'Canadian (New)'}]",143.36927467500124,43.650159,-79.378093,1 Adelaide Street E,3.5
+115,Henrietta Lane,"[{'alias': 'cafes', 'title': 'Cafes'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",147.79552683824485,43.654067,-79.361242,394 King Street E,4.5
+116,The Oud & The Fuzz,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",150.61943633502764,43.6532,-79.39974,21 Kensington Avenue,4.0
+117,The Carbon Bar,"[{'alias': 'bbq', 'title': 'Barbeque'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",151.11249545442493,43.653088,-79.374829,99 Queen Street East,4.0
+118,Upper Deck By Fran's,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",151.40563943052203,43.661469,-79.384068,2-20 College Street,3.0
+119,Pure Spirits,"[{'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'bars', 'title': 'Bars'}]",152.6971562213818,43.650404,-79.358722,17 Tank House Lane,3.0
+120,Lob Toronto,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'venues', 'title': 'Venues & Event Spaces'}]",154.0012197700366,43.6580893899331,-79.3501917779098,100 Broadview Avenue,4.0
+121,Paupers Pub,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}]",154.55371405166062,43.66515,-79.41004,539 Bloor Street W,3.0
+122,Toronto Oktoberfest,"[{'alias': 'festivals', 'title': 'Festivals'}]",154.91804180282716,43.6319771,-79.4298401,955 Lake Shore Boulevard W,3.5
+123,Indie Ale House,"[{'alias': 'breweries', 'title': 'Breweries'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}, {'alias': 'pizza', 'title': 'Pizza'}]",157.75309412999977,43.6654413783034,-79.4652382135862,2876 Dundas Street W,4.0
+124,Goose Island,"[{'alias': 'breweries', 'title': 'Breweries'}]",159.49735272720994,43.6472859,-79.3735769,70 The Esplanade,3.5
+125,Round the Horn,"[{'alias': 'hotdog', 'title': 'Hot Dogs'}, {'alias': 'sportsbars', 'title': 'Sports Bars'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",161.393164406627,43.6491941550031,-79.4499439001083,331 Roncesvalles Avenue,3.5
+126,The Hole In the Wall,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'newcanadian', 'title': 'Canadian (New)'}]",161.68219037728397,43.66518,-79.46515,2867 Dundas Street W,4.5
+127,Lobster Burger Bar,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}, {'alias': 'burgers', 'title': 'Burgers'}]",163.24522620126018,43.647443,-79.386768,214 King Street W,4.0
+128,The Beer Store,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",164.47660386472484,43.6662,-79.48916,3524 Dundas St W,2.5
+129,Local 1794,"[{'alias': 'newcanadian', 'title': 'Canadian (New)'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}]",167.48950947810812,43.68459,-79.31881,1794 Danforth Avenue,4.0
+130,Local Lakeside Patio,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'bars', 'title': 'Bars'}]",170.4480748204748,43.6380190207397,-79.3832251645672,235 Queens Quay West,2.5
+131,The Slip,"[{'alias': 'pubs', 'title': 'Pubs'}]",175.02900846274474,43.637997290007455,-79.38311561383435,235 Queens Quay W,2.0
+132,Harbord House,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'newcanadian', 'title': 'Canadian (New)'}]",175.63746785940782,43.66284306860238,-79.40442251238142,124 Harbord Street,3.5
+133,The Golden Pigeon,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",178.66309195437867,43.6628689,-79.3676533,424 Parliament Street,4.5
+134,Bambi's,"[{'alias': 'divebars', 'title': 'Dive Bars'}]",178.89018857290253,43.64925,-79.42446,1265 Dundas Street W,3.0
+135,Lake Inez,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",182.4413754688313,43.67234,-79.32064,1471 Gerrard Street E,4.5
+136,C'est What,"[{'alias': 'breweries', 'title': 'Breweries'}, {'alias': 'musicvenues', 'title': 'Music Venues'}, {'alias': 'newcanadian', 'title': 'Canadian (New)'}]",182.4476980821718,43.64839,-79.37334,67 Front Street E,3.5
+137,Mascot Brewery,"[{'alias': 'breweries', 'title': 'Breweries'}]",184.9713646985689,43.64746,-79.38709,220 King Street W,4.0
+138,Wheat Sheaf Tavern,"[{'alias': 'pubs', 'title': 'Pubs'}]",185.74481095745716,43.6437152935501,-79.4028282165527,667 King Street W,3.0
+139,Crafty Coyote,"[{'alias': 'pubs', 'title': 'Pubs'}]",189.2383131965965,43.66551519348442,-79.40873502042707,511 Bloor Street W,3.5
+140,Shoeless Joe's Sports Grill - Queens Quay,"[{'alias': 'sportsbars', 'title': 'Sports Bars'}, {'alias': 'burgers', 'title': 'Burgers'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",194.95292372063645,43.638802322405,-79.385933508234,249 Queen's Quay W,2.5
+141,Amsterdam BrewHouse,"[{'alias': 'breweries', 'title': 'Breweries'}]",195.51332598601613,43.6379121284171,-79.3847308982186,245 Queens Quay W,3.5
+142,Bathurst Local,"[{'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",195.6848316563741,43.65146,-79.40592,322 Bathurst Street,4.5
+143,Bar Lokys,"[{'alias': 'sportsbars', 'title': 'Sports Bars'}]",196.24602498452887,43.6557699,-79.45411,1573 Bloor Street W,4.5
+144,Belfast Love Public House,"[{'alias': 'irish_pubs', 'title': 'Irish Pub'}, {'alias': 'pubs', 'title': 'Pubs'}]",196.42133767952225,43.64515,-79.39847,548 King Street W,3.5
+145,LCBO,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",197.00895058165983,43.64335862829955,-79.37140953706668,Queens Quay,4.0
+146,Get Well,"[{'alias': 'divebars', 'title': 'Dive Bars'}]",200.24664073788952,43.6491508,-79.4219437,1181 Dundas Street W,4.0
+147,Tommy's Bar and Grill,"[{'alias': 'pubs', 'title': 'Pubs'}]",202.9201488352283,43.68179,-79.33192,1206 Danforth Avenue,2.0
+148,Rorschach Brewing Company,"[{'alias': 'brewpubs', 'title': 'Brewpubs'}]",204.91536674798687,43.66348,-79.31988,1001 Eastern Avenue,4.0
+149,Granite Brewery & Restaurant,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'breweries', 'title': 'Breweries'}, {'alias': 'tradamerican', 'title': 'American (Traditional)'}]",206.6964646804231,43.7079593226491,-79.3897995162387,245 Eglinton Avenue E,3.5
+150,Communist's Daughter,"[{'alias': 'bars', 'title': 'Bars'}]",209.1451673619517,43.6492099,-79.42103,1149 Dundas Street W,4.0
+151,Taverne Tamblyn,"[{'alias': 'french', 'title': 'French'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",211.20486081118275,43.68278544751015,-79.32706929999999,1426 Danforth Avenue,4.0
+152,High Park Brewery,"[{'alias': 'breweries', 'title': 'Breweries'}]",224.13533189510952,43.6698993146465,-79.4834255799651,839 Runnymede Road,4.0
+153,Gladstone House,"[{'alias': 'hotels', 'title': 'Hotels'}, {'alias': 'lounges', 'title': 'Lounges'}]",227.01532282514404,43.6426812337086,-79.4268306344748,1214 Queen Street W,3.5
+154,Her Father's Cider Bar & Kitchen,"[{'alias': 'gastropubs', 'title': 'Gastropubs'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'newcanadian', 'title': 'Canadian (New)'}]",227.9298397574672,43.66232,-79.40453,119 Harbord Street,4.5
+155,Wvrst,"[{'alias': 'german', 'title': 'German'}, {'alias': 'beerbar', 'title': 'Beer Bar'}]",233.2771380204236,43.64418555054,-79.401014855291,609 King Street W,4.0
+156,Black Lab Brewing,"[{'alias': 'breweries', 'title': 'Breweries'}]",234.58026723852768,43.661923,-79.328959,818 Eastern Avenue,4.5
+157,416 Snack Bar,"[{'alias': 'tapasmallplates', 'title': 'Tapas/Small Plates'}, {'alias': 'bars', 'title': 'Bars'}]",237.1468751719624,43.64755,-79.40385,181 Bathurst Street,4.0
+158,Oddseoul,"[{'alias': 'korean', 'title': 'Korean'}, {'alias': 'divebars', 'title': 'Dive Bars'}, {'alias': 'asianfusion', 'title': 'Asian Fusion'}]",246.94704724889007,43.64617,-79.41973,90 Ossington Avenue,4.0
+159,The Pour House Pub And Kitchen,"[{'alias': 'pubs', 'title': 'Pubs'}, {'alias': 'newcanadian', 'title': 'Canadian (New)'}]",247.95532810726024,43.6758,-79.40385,182 Dupont Street,3.0
+160,The Greater Good Bar,"[{'alias': 'bars', 'title': 'Bars'}]",265.428467489379,43.6692689674341,-79.4390478949696,229 Geary Avenue,4.0
+161,Labatt Breweries of Canada,"[{'alias': 'breweries', 'title': 'Breweries'}]",270.1613700560813,43.63877,-79.3806,207 Queens Quay W,4.0
+162,Folly Brewpub,"[{'alias': 'brewpubs', 'title': 'Brewpubs'}]",272.3367099018728,43.65401,-79.42591,928 College Street,4.0
+163,Toronto Winter Brewfest,"[{'alias': 'festivals', 'title': 'Festivals'}]",279.6673856388209,43.63453,-79.41251,Enercare Centre,2.0
+164,Reid's Distillery,"[{'alias': 'distilleries', 'title': 'Distilleries'}]",283.758720152994,43.6552,-79.34054,32 Logan Avenue,4.5
+165,Cabin Fever,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'arcades', 'title': 'Arcades'}]",284.3341802559564,43.6553501508307,-79.4567192927358,1669 Bloor Street W,4.5
+166,Brass Taps Pizza Pub,"[{'alias': 'pizza', 'title': 'Pizza'}, {'alias': 'pubs', 'title': 'Pubs'}]",291.0122887421003,43.6539,-79.42613,934 College St,3.5
+167,Whelan's Gate Gastropub,"[{'alias': 'irish_pubs', 'title': 'Irish Pub'}, {'alias': 'gastropubs', 'title': 'Gastropubs'}, {'alias': 'whiskeybars', 'title': 'Whiskey Bars'}]",298.99031118608445,43.6552887,-79.4564438,1663 Bloor Street W,4.5
+168,Sugo,"[{'alias': 'italian', 'title': 'Italian'}, {'alias': 'sandwiches', 'title': 'Sandwiches'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",302.24144007353493,43.65825,-79.44227,1281 Bloor Street W,4.5
+169,Aurora Winter Festival,"[{'alias': 'festivals', 'title': 'Festivals'}]",304.39139585072473,43.6285241677313,-79.4134089455325,955 Lake Shore Blvd W,2.5
+170,Toronto's Festival of Beer,"[{'alias': 'festivals', 'title': 'Festivals'}]",304.94114434189913,43.6328,-79.42193,Bandshell Park,4.0
+171,The Wicket Bar,"[{'alias': 'sportsbars', 'title': 'Sports Bars'}]",305.2221834796429,43.6554790883517,-79.4565081125878,1671 Bloor Street W,4.5
+172,Saulter Street Brewery,"[{'alias': 'breweries', 'title': 'Breweries'}]",320.573747236823,43.6583981085844,-79.3464022322122,1-31 Saulter Street,4.5
+173,Louis Cifer Brew Works,"[{'alias': 'brewpubs', 'title': 'Brewpubs'}]",321.03977452987124,43.67737,-79.35103,417 Danforth Avenue,3.0
+174,Laylow Brewery,"[{'alias': 'brewpubs', 'title': 'Brewpubs'}]",335.1662280723359,43.65249,-79.43385,1144 College Street,4.5
+175,Halo Brewery,"[{'alias': 'breweries', 'title': 'Breweries'}]",338.08246862215566,43.661792,-79.446468,247 Wallace Avenue,4.0
+176,Gull & Firkin,"[{'alias': 'pubs', 'title': 'Pubs'}]",341.1325815499806,43.66924,-79.3026299,1943 Queen Street E,3.5
+177,The Feathers Pub,"[{'alias': 'british', 'title': 'British'}, {'alias': 'pubs', 'title': 'Pubs'}]",343.8829717567704,43.68068,-79.2875,962 Kingston Road,3.5
+178,Beaches Brewing Company,"[{'alias': 'brewpubs', 'title': 'Brewpubs'}]",345.22683184304964,43.66935,-79.30229,1953 Queen Street E,3.5
+179,Boardwalk Place,"[{'alias': 'pubs', 'title': 'Pubs'}]",348.9289013967193,43.6630096,-79.3108978,1675 Lake Shore Boulevard E,2.5
+180,Bellwoods Brewery,"[{'alias': 'breweries', 'title': 'Breweries'}, {'alias': 'newcanadian', 'title': 'Canadian (New)'}]",352.9422110455171,43.64713,-79.42015,124-126 Ossington Avenue,4.0
+181,The Stone Lion,"[{'alias': 'pubs', 'title': 'Pubs'}]",366.9133759677546,43.669559,-79.302306,1958 Queen Street E,3.0
+182,Reposado Bar & Lounge,"[{'alias': 'musicvenues', 'title': 'Music Venues'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",372.5403456006567,43.6472993,-79.4201635,136 Ossington Avenue,4.0
+183,BarChef,"[{'alias': 'lounges', 'title': 'Lounges'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",389.26567884022126,43.6482201,-79.4001694,472 Queen Street W,4.5
+184,Pepper's Cafe,"[{'alias': 'bars', 'title': 'Bars'}, {'alias': 'portuguese', 'title': 'Portuguese'}, {'alias': 'newcanadian', 'title': 'Canadian (New)'}]",413.0564754484457,43.66218,-79.44457,189 Wallace Avenue,4.0
+185,Mississauga Creative Craft Beer Festival,"[{'alias': 'festivals', 'title': 'Festivals'}]",414.5830906166891,43.6636220658323,-79.3090405,1352 Lakeshore Boulevard E,4.0
+186,Le Conciliabule,"[{'alias': 'bakeries', 'title': 'Bakeries'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}, {'alias': 'bistros', 'title': 'Bistros'}]",469.4057790937696,43.671365,-79.3272249,1300 Gerrard Street E,4.5
+187,The Green Dragon,"[{'alias': 'chicken_wings', 'title': 'Chicken Wings'}, {'alias': 'pubs', 'title': 'Pubs'}]",471.1385004665684,43.68097,-79.28474,1032 Kingston Road,4.0
+188,Toronto Urban Adventures,"[{'alias': 'walkingtours', 'title': 'Walking Tours'}, {'alias': 'foodtours', 'title': 'Food Tours'}]",498.2403346687152,43.653226,-79.3831843,,5.0
+189,Left Field Brewery,"[{'alias': 'breweries', 'title': 'Breweries'}]",515.1419215116352,43.67379,-79.3304825,36 Wagstaff Drive,4.0
+190,Rainhard Brewing,"[{'alias': 'breweries', 'title': 'Breweries'}]",687.0232960062128,43.6725677,-79.4790013,100 Symes Road,4.5
+191,Shacklands Brewing,"[{'alias': 'breweries', 'title': 'Breweries'}]",687.0232960062128,43.67268,-79.4783,100 Symes Road,4.5
+192,Junction Craft Brewing,"[{'alias': 'breweries', 'title': 'Breweries'}]",690.6045637320148,43.6732047781224,-79.4786154986725,150 Symes Road,4.0
+193,Brunswick Bierworks,"[{'alias': 'breweries', 'title': 'Breweries'}]",708.3412141109809,43.70984,-79.31753,25 Curity Avenue,5.0
+194,Muddy York Brewing,"[{'alias': 'breweries', 'title': 'Breweries'}]",760.6436075764458,43.7124,-79.31214,22 Cranfield Road,5.0
+195,Great Lakes Brewery - Canada,"[{'alias': 'breweries', 'title': 'Breweries'}]",843.6186694520204,43.6224856,-79.5050499,30 Queen Elizabeth Boulevard,4.0
+196,The Beer Store,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",937.5944551247223,43.7078705,-79.3624802,Laird Avenue,4.0
+197,Odd Thomas,"[{'alias': 'bars', 'title': 'Bars'}]",957.2285122164952,43.6457685269101,-79.3906097251258,31 Mercer Street,2.5
+198,Cool Beer Brewing,"[{'alias': 'breweries', 'title': 'Breweries'}]",990.0972491231288,43.6191518,-79.5106746,164 Evans Avenue,4.0
+199,Gabby’s King West,"[{'alias': 'newcanadian', 'title': 'Canadian (New)'}, {'alias': 'bars', 'title': 'Bars'}, {'alias': 'seafood', 'title': 'Seafood'}]",1009.142610927176,43.6463517,-79.3904852,309 King Street W,2.5
+200,Amsterdam Brewery,"[{'alias': 'breweries', 'title': 'Breweries'}]",1105.2462757699031,43.7070332,-79.3573192,45 Esandar Dr.,4.0
+201,Melrose On Adelaide,"[{'alias': 'cocktailbars', 'title': 'Cocktail Bars'}, {'alias': 'wine_bars', 'title': 'Wine Bars'}]",1164.6613724255124,43.64815,-79.38988,300 - 270 Adelaide Strret W,4.0
+202,LCBO,"[{'alias': 'beer_and_wine', 'title': 'Beer, Wine & Spirits'}]",1198.220919086113,43.7710852,-79.1861016,4525 Kingston Rd,2.0
+203,Azure Restaurant & Bar,"[{'alias': 'newcanadian', 'title': 'Canadian (New)'}, {'alias': 'cocktailbars', 'title': 'Cocktail Bars'}]",1209.9032903274992,43.64425877111892,-79.38526644307021,225 Front Street W,3.0
+204,Jack Astor's,"[{'alias': 'newcanadian', 'title': 'Canadian (New)'}, {'alias': 'sportsbars', 'title': 'Sports Bars'}, {'alias': 'burgers', 'title': 'Burgers'}]",1376.91049687308,43.64540418,-79.38391596,144 Front Street West,3.0
